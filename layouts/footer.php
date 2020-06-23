@@ -1,24 +1,20 @@
 ﻿
   <!-- /.content-wrapper -->
-  <footer class="main-footer">
+  <!-- <footer class="main-footer">
     <div class="pull-right hidden-xs">
       <b>Phiên bản</b> 1.1.1
     </div>
     <strong>Đề tài thực tập: <a href="https://www.facebook.com/dthanhhuy1998" target="_blank">Quản lý nhân sự</a>.</strong> KGU - 1602206015 - Đào Thanh Huy - B16TT1
   </footer>
-  <!-- Control Sidebar -->
   <aside class="control-sidebar control-sidebar-dark" style="display: none;">
-    <!-- Create the tabs -->
     <ul class="nav nav-tabs nav-justified control-sidebar-tabs">
       <li><a href="#control-sidebar-home-tab" data-toggle="tab"><i class="fa fa-home"></i></a></li>
       <li><a href="#control-sidebar-settings-tab" data-toggle="tab"><i class="fa fa-gears"></i></a></li>
     </ul>
   </aside>
-  <!-- /.control-sidebar -->
-  <!-- Add the sidebar's background. This div must be placed
-       immediately after the control sidebar -->
+
   <div class="control-sidebar-bg"></div>
-</div>
+</div> -->
 <!-- ./wrapper -->
 
 <!-- jQuery 3 -->
